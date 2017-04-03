@@ -1,0 +1,21 @@
+<svg height="286" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="286" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">└─┬ feedparser@2.1.0 </tspan>
+<tspan x="10" y="42">  ├── addressparser@1.0.1 </tspan>
+<tspan x="10" y="58">  ├── array-indexofobject@0.0.1 </tspan>
+<tspan x="10" y="74">  ├── lodash.assign@4.2.0 </tspan>
+<tspan x="10" y="90">  ├── lodash.get@4.4.2 </tspan>
+<tspan x="10" y="106">  ├── lodash.has@4.5.2 </tspan>
+<tspan x="10" y="122">  ├── lodash.uniq@4.5.0 </tspan>
+<tspan x="10" y="138">  ├─┬ readable-stream@2.2.6 </tspan>
+<tspan x="10" y="154">  │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="170">  │ ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="186">  │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="202">  │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="218">  │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="234">  │ ├── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="250">  │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="266">  └── sax@1.2.2</tspan>
+</text>
+</svg>
