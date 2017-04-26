@@ -1,6 +1,6 @@
 # npmdoc-feedparser
 
-#### api documentation for  [feedparser (v2.2.0)](http://github.com/danmactough/node-feedparser)  [![npm package](https://img.shields.io/npm/v/npmdoc-feedparser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-feedparser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-feedparser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-feedparser)
+#### basic api documentation for  [feedparser (v2.2.0)](http://github.com/danmactough/node-feedparser)  [![npm package](https://img.shields.io/npm/v/npmdoc-feedparser.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-feedparser) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-feedparser.svg)](https://travis-ci.org/npmdoc/node-npmdoc-feedparser)
 
 #### Robust RSS Atom and RDF feed parsing using sax js
 
